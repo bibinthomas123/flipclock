@@ -1,0 +1,19 @@
+{
+  "name": "flipclock",
+  "version": "1.0.0",
+  "description": "a flipclock made in JS ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bibinthomas123/flipclock.git"
+  },
+  "author": "bibin thomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bibinthomas123/flipclock/issues"
+  },
+  "homepage": "https://github.com/bibinthomas123/flipclock#readme"
+}
