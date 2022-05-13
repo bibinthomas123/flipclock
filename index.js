@@ -7,7 +7,7 @@ setInterval(() => {
 
   flipAllCards();
   previousTimeBetweenDates = currentDate;
-  widht()
+ 
 }, 250);
 
 function flipAllCards() {
