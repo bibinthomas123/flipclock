@@ -85,6 +85,7 @@
     position: absolute;
     top: 35%;
     left: 15%;
+  
   }
   
   .container-segment {
@@ -103,4 +104,14 @@
     font-size: 1rem;
   }
 
- 
+@media screen and (max-width:425px){
+   .container{
+    transform: rotateZ(90deg);
+   }
+   body{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     font-size:1rem;
+   }
+}
