@@ -11,9 +11,9 @@ setInterval(() => {
 
 function flipAllCards() {
   const time = new Date();  //acessing the current time 
-  const seconds = time.getSeconds();   
+  const seconds = time.getSeconds();
   const minutes = time.getMinutes();
-  const hours = time.getHours();
+  const hours = time.getHours()%12;
 
   flip(document.querySelector("[data-hours-tens]"), Math.floor(hours / 10));
   flip(document.querySelector("[data-hours-ones]"), hours % 10);

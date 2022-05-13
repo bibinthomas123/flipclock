@@ -84,7 +84,7 @@
     justify-content: center;
     position: absolute;
     top: 35%;
-    left: 20%;
+    left: 15%;
   }
   
   .container-segment {
@@ -102,3 +102,5 @@
   .segment-title {
     font-size: 1rem;
   }
+
+ 
