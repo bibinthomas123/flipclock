@@ -3,7 +3,7 @@
 *, *::after, *::before {
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
-    font-size: 2.74rem;
+    font-size: 3rem;
     font-weight: 700;
   }
   
@@ -84,7 +84,7 @@
     justify-content: center;
     position: absolute;
     top: 35%;
-    left: 15%;
+    left: 7%;
   }
   
   .container-segment {
